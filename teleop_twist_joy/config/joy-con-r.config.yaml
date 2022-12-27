@@ -1,0 +1,10 @@
+# Nintendo Switch Joy-Con(R) controller
+axis_linear: 4
+scale_linear: 5
+scale_linear_turbo: 10
+
+axis_angular: 5
+scale_angular: 10
+
+enable_button: 15  # ZR button
+enable_turbo_button: 14  # R button
