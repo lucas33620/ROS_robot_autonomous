@@ -1,0 +1,14 @@
+{
+"controls": [
+{"name": "Avant", "amplitude": [0.5]}, {"name": "Droite", "amplitude": [5]}, {"name": "flip_avant_droite", "amplitude": [0]}, {"name": "flip_avant_gauche", "amplitude": [0]}, {"name": "flip_arriere_gauche", "amplitude": [0]}, {"name": "flip_arriere_droite", "amplitude": [0]}, {"name": "base", "amplitude": [0]}, {"name": "epaule", "amplitude": [0]}, {"name": "coude", "amplitude": [0]}, {"name": "poignet", "amplitude": [0]}, {"name": "rotation", "amplitude": [0]}, {"name": "pince", "amplitude": [0]}, {"name": "pan_ptz_gauche", "amplitude": [0]}, {"name": "tilt_ptz_gauche", "amplitude": [0]}, {"name": "pan_ptz_droite", "amplitude": [0]}, {"name": "tilt_ptz_droite", "amplitude": [0]}, {"name": "pan_tourelle", "amplitude": [0]}, {"name": "tilt_tourelle", "amplitude": [0]}
+], 
+
+"devices": [
+{"name": "LED_AVANT", "state": 0}, {"name": "LED_ARRIERE", "state": 0}, {"name": "LED_ARM", "state": 0}, {"name": "LED_TURRET_COLD", "state": 0}, {"name": "LED_PTZ_RIGHT_COLD", "state": 0}, {"name": "LED_PTZ_LEFT_COLD", "state": 0}, {"name": "LED_PTZ_RIGHT_WARM", "state": 0}, {"name": "LED_PTZ_LEFT_WARM", "state": 0}
+],
+ 
+"stop": 0, 
+"securise": 1,
+ "TableTopMode": false, 
+"Counter": 111728
+}
